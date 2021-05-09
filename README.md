@@ -1,16 +1,11 @@
-![grants](https://user-images.githubusercontent.com/16810128/113799579-f3ca5700-971a-11eb-81ca-6e339c7d577a.png)
-Open community grants to help new and existing members to grow and build in the crypto ecosystem.
-
 ## Overview
-Whilst diving back into the crypto rabbit hole, I wanted to see what Crypto grants/programs are open for individuals/collectives to build on.
+This ecosystem grants page is designed to collect community and developer grants that provide funding for new and existing members to grow and build in the crypto ecosystem. Forked from @tomterado who started a great list. Please remember that every grant program is unique to their own community. Every grant program is nuanced and are not the only ways to grow and distribute funding in an ecosystem (ie. hackathons, events and Gitcoin contributions), however, this list will only focus on formally announced grants programs.
 
-They are great community initiatives to help new and existing engineers and product creators to build the crypto ecosystem. 
+All are welcome to contribute. Feel free to submit PR's for new ecosystem links + fixes.
 
-Have most likely missed quite a few. 
+**Please Be Advised**
 
-Please understand that a lot of projects have contributed awesome efforts outside of grant programs through hackathons, events and Gitcoin contributions. 
-
-Feel free to submit PR's for new ecosystem links + fixes.
+Readers are strongly encouraged to perform their own due diligence before trusting third-party services listed below. Despite my best efforts to provide a clean resource, given the nature of the cryptocurrency realm, programs start and end, scams do exist, and even great projects are frequently compromised.
 
 ## Currently Open (As of April 2021)
 - [Aave Ecosystem Grants](https://medium.com/aave/aave-ecosystem-grants-round-2-33e7ffed7933)
