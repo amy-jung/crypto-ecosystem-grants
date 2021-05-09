@@ -14,6 +14,7 @@ Feel free to submit PR's for new ecosystem links + fixes.
 
 ## Currently Open (As of April 2021)
 - [Aave Ecosystem Grants](https://medium.com/aave/aave-ecosystem-grants-round-2-33e7ffed7933)
+- [Arweave](https://www.arweave.org/get-involved/grants-funding)
 - [Bancor](https://support.bancor.network/hc/en-us/articles/360010458140-Developer-Grant-Program-)
 - [ChainLink](https://chain.link/community/grants)
 - [Compound](https://compoundgrants.org/)
@@ -25,7 +26,10 @@ Feel free to submit PR's for new ecosystem links + fixes.
 - [Kraken Exchange](https://www.kraken.com/en-us/features/grants)
 - [mStable](https://github.com/mstable/mStable-dev-grants)
 - [NEAR](https://near.org/grants/)
+- [Nervos](https://www.nervos.org/developer/grants/)
 - [Nexus Mutual](https://medium.com/nexus-mutual/our-community-grants-programme-is-live-cd4b10451405)
+- [Oasis Protocol](https://oasisprotocol.org/ecosystem-grants)
+- [Solana](https://solana.com/grants)
 - [Stacks](https://github.com/stacksgov/Stacks-Grants)
 - [UNI Grants](https://www.notion.so/Welcome-to-UNI-Grants-6e3e84967a984a5fb127ae749649ddc9)
 - [Web3](https://docs.onflow.org/)
