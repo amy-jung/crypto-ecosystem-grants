@@ -11,6 +11,7 @@ Readers are strongly encouraged to perform their own due diligence before trusti
 - [Aave Ecosystem Grants](https://medium.com/aave/aave-ecosystem-grants-round-2-33e7ffed7933)
 - [Arweave](https://www.arweave.org/get-involved/grants-funding)
 - [Bancor](https://support.bancor.network/hc/en-us/articles/360010458140-Developer-Grant-Program-)
+- [Bored Ape Yacht Club](https://boredapeyachtclub.medium.com/bored-ape-yacht-club-community-grant-program-9b32c3fbab0e)
 - [ChainLink](https://chain.link/community/grants)
 - [Compound](https://compoundgrants.org/)
 - [Decentralized Wireless Alliance](https://dewialliance.medium.com/launching-the-dewi-grant-program-9410310129bf)
