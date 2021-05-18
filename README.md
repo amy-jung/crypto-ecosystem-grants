@@ -1,5 +1,5 @@
 ## Overview
-This ecosystem grants page is designed to collect community and developer grants that provide funding for new and existing members to grow and build in the crypto ecosystem. Forked from @tomterado who started a great list. Please remember that every grant program is unique to their own community. Every grant program is nuanced and are not the only ways to grow and distribute funding in an ecosystem (ie. hackathons, events and Gitcoin contributions), however, this list will only focus on formally announced grants programs.
+This ecosystem grants page is designed to collect community and developer grants that provide funding for members to grow and build in the crypto ecosystem. Forked from @tomterado who started a great list. Please remember that every grant program is unique to their own community. Every grant program is nuanced and are not the only ways to grow and distribute funding in an ecosystem (ie. hackathons, events and Gitcoin contributions), however, this list will only focus on formally announced grants programs.
 
 All are welcome to contribute. Feel free to submit PR's for new ecosystem links + fixes.
 
@@ -7,7 +7,7 @@ All are welcome to contribute. Feel free to submit PR's for new ecosystem links 
 
 Readers are strongly encouraged to perform their own due diligence before trusting third-party services listed below. Despite my best efforts to provide a clean resource, given the nature of the cryptocurrency realm, programs start and end, scams do exist, and even great projects are frequently compromised.
 
-## Currently Open (As of April 2021)
+## Currently Open (As of May 2021)
 - [Aave Ecosystem Grants](https://medium.com/aave/aave-ecosystem-grants-round-2-33e7ffed7933)
 - [Arweave](https://www.arweave.org/get-involved/grants-funding)
 - [Bancor](https://support.bancor.network/hc/en-us/articles/360010458140-Developer-Grant-Program-)
