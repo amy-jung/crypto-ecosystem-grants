@@ -15,6 +15,7 @@ Readers are strongly encouraged to perform their own due diligence before trusti
 - [ChainLink](https://chain.link/community/grants)
 - [Compound](https://compoundgrants.org/)
 - [Decentralized Wireless Alliance](https://dewialliance.medium.com/launching-the-dewi-grant-program-9410310129bf)
+- [ECF-Ethereum Community Fund](https://ecf.network/)
 - [ETH Foundation](https://esp.ethereum.foundation/en/)
 - [FileCoin](https://grants.filecoin.io/)
 - [Gitcoin](https://gitcoin.co/grants/)
