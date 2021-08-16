@@ -7,11 +7,13 @@ All are welcome to contribute. Feel free to submit PR's for new ecosystem links 
 
 Readers are strongly encouraged to perform their own due diligence before trusting third-party services listed below. Despite my best efforts to provide a clean resource, given the nature of the cryptocurrency realm, programs start and end, scams do exist, and even great projects are frequently compromised.
 
-## Currently Open (As of May 2021)
+## Currently Open (As of August 2021)
 - [Aave Ecosystem Grants](https://medium.com/aave/aave-ecosystem-grants-round-2-33e7ffed7933)
 - [Arweave](https://www.arweave.org/get-involved/grants-funding)
 - [Bancor](https://support.bancor.network/hc/en-us/articles/360010458140-Developer-Grant-Program-)
 - [Bored Ape Yacht Club](https://boredapeyachtclub.medium.com/bored-ape-yacht-club-community-grant-program-9b32c3fbab0e)
+- [Celo Community Fund](https://celocommunityfund.org/)
+- [Celo Foundation Grants](https://celo.org/experience/grants#introduction)
 - [ChainLink](https://chain.link/community/grants)
 - [Compound Grants](https://compoundgrants.org/)
 - [Decentralized Wireless Alliance](https://dewialliance.medium.com/launching-the-dewi-grant-program-9410310129bf)
@@ -21,7 +23,9 @@ Readers are strongly encouraged to perform their own due diligence before trusti
 - [FileCoin](https://grants.filecoin.io/)
 - [Gitcoin](https://gitcoin.co/grants/)
 - [Gnosis](https://github.com/gnosis/GECO)
+- [Interchain Foundation Grants](https://interchain.io/funding/)
 - [Kraken Exchange](https://www.kraken.com/en-us/features/grants)
+- [Mina Protocol Grants](https://minaprotocol.com/grants)
 - [mStable](https://github.com/mstable/mStable-dev-grants)
 - [NEAR](https://near.org/grants/)
 - [Nervos](https://www.nervos.org/developer/grants/)
