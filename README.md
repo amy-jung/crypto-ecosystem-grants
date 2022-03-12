@@ -26,6 +26,7 @@ Readers are strongly encouraged to perform their own due diligence before trusti
 - [Gnosis](https://github.com/gnosis/GECO)
 - [Interchain Foundation Grants](https://interchain.io/funding/)
 - [Kraken Exchange](https://www.kraken.com/en-us/features/grants)
+- [LEGO Lido](https://lego.lido.fi/)
 - [Mina Protocol Grants](https://minaprotocol.com/grants)
 - [mStable](https://github.com/mstable/mStable-dev-grants)
 - [NEAR](https://near.org/grants/)
